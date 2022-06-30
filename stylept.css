@@ -1,18 +1,18 @@
+body {
+    margin: 0px;
+    font-family: sans-serif;
+    display: flexbox;
+}    
+
 header {
     display: flexbox;
     font-family: semi-bold-italic;
     background-color: #7B8CF0;
 }
 
-body {
-    margin: 0px;
-    font-family: sans-serif;
-    display: flexbox;
-}
-
 header img {
-    width: 9%;
-    height: 9%;
+    width: 10%;
+    height: 10%;
     padding-left: 5%;
 }
 
