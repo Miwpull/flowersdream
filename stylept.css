@@ -28,6 +28,7 @@ main {
 
 nav {
     justify-content: space-around;
+    text-align: center;
 }
 
 nav a {
@@ -38,7 +39,6 @@ nav a {
     padding: 20%;
     color: white;
     text-decoration: none;
-    text-align: center;
 }
 
 nav a:hover {
