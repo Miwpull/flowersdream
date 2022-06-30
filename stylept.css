@@ -27,7 +27,7 @@ main {
 }
 
 nav {
-    text-align: center;
+    justify-content: space-around;
 }
 
 nav a {
@@ -38,6 +38,7 @@ nav a {
     padding: 20px;
     color: white;
     text-decoration: none;
+    text-align: center;
 }
 
 nav a:hover {
