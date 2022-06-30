@@ -35,7 +35,7 @@ nav a {
     border: solid 1px #6494D9;
     background-color: #6494D9;
     border-radius: 50%;
-    margin: 2% 5% 5% 5%;
+    margin: 5%;
     padding: 1%;
     color: white;
     text-decoration: none;
@@ -46,7 +46,7 @@ nav a:hover {
 }
 
 .main {
-    margin: 150px;
+    margin: 15%;
     position: relative;
     left: 20px;
 }
