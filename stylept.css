@@ -128,8 +128,9 @@ h1 {
 
 .reviews article {
     display: flex;
-    margin-bottom: 10%;
+    margin-bottom: 6%;
     margin-left: 5%;
+    margin-right: 5%;
 }
 
 .reviews article img {
@@ -152,13 +153,13 @@ h1 {
 
 .star {
     position: relative;
-    top: 40px;
+    top: 75px;
 }
 
 .star1 {
     position: relative;
-    top: 40px;
-    left: 20%;
+    top: 75px;
+    left: 25%;
 }
 
 footer {
