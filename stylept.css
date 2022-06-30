@@ -179,12 +179,15 @@ footer img {
 
 .social {
     display: flex;
+    width: 100%;
+    height: 50%;
+    text-align: center;
 }
 
 .social article {
     width: 100%;
     height: 100%;
-    margin: 5%;
+    margin: 5% 5% 5% 0;
 }
 
 .instagram {
