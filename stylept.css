@@ -189,7 +189,9 @@ footer img {
     
 .instagram {
     width: 70px;
-    height: 70px;
+    height: 70px; 
+    position: relative;
+    bottom: 25px;
 }
 
 .insta {
